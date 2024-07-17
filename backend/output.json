@@ -1,0 +1,1887 @@
+{
+  "tradeId": "312941678",
+  "status": 0,
+  "msg": "",
+  "carNum": 2,
+  "goodNum": 116,
+  "totalCapacity": 40.456,
+  "totalWeight": 0.044456,
+  "trainList": [
+    {
+      "train": 1,
+      "modelCode": "B0009",
+      "good_Num": 71,
+      "totalCapacity": 18.708,
+      "totalWeight": 0.021348,
+      "packingRate": 0.283244258050841,
+      "stepList": [
+        {
+          "step": 1,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 1
+            }
+          ]
+        },
+        {
+          "step": 2,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 0.0,
+              "y": 0.59,
+              "z": 0.0,
+              "trainIndex": 2
+            }
+          ]
+        },
+        {
+          "step": 3,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 0.0,
+              "y": 1.18,
+              "z": 0.0,
+              "trainIndex": 3
+            }
+          ]
+        },
+        {
+          "step": 4,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "TD0028179",
+              "restrictionFlag": "1",
+              "x": 0.0,
+              "y": 1.77,
+              "z": 0.0,
+              "trainIndex": 4
+            }
+          ]
+        },
+        {
+          "step": 5,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "AL00MF008",
+              "restrictionFlag": "0",
+              "x": 0.66,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 5
+            }
+          ]
+        },
+        {
+          "step": 6,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 0.66,
+              "y": 0.95,
+              "z": 0.0,
+              "trainIndex": 6
+            }
+          ]
+        },
+        {
+          "step": 7,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLA009",
+              "restrictionFlag": "0",
+              "x": 0.66,
+              "y": 1.54,
+              "z": 0.0,
+              "trainIndex": 7
+            }
+          ]
+        },
+        {
+          "step": 8,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 0.94,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 8
+            }
+          ]
+        },
+        {
+          "step": 9,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "AL00MF008",
+              "restrictionFlag": "1",
+              "x": 0.94,
+              "y": 0.59,
+              "z": 0.0,
+              "trainIndex": 9
+            }
+          ]
+        },
+        {
+          "step": 10,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 1.32,
+              "y": 0.95,
+              "z": 0.0,
+              "trainIndex": 10
+            }
+          ]
+        },
+        {
+          "step": 11,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 1.335,
+              "y": 1.54,
+              "z": 0.0,
+              "trainIndex": 11
+            }
+          ]
+        },
+        {
+          "step": 12,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 1.6,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 12
+            }
+          ]
+        },
+        {
+          "step": 13,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 1.98,
+              "y": 0.95,
+              "z": 0.0,
+              "trainIndex": 13
+            }
+          ]
+        },
+        {
+          "step": 14,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 1.995,
+              "y": 1.54,
+              "z": 0.0,
+              "trainIndex": 14
+            }
+          ]
+        },
+        {
+          "step": 15,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "TD0028179",
+              "restrictionFlag": "0",
+              "x": 2.26,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 15
+            }
+          ]
+        },
+        {
+          "step": 16,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "AL00MF008",
+              "restrictionFlag": "1",
+              "x": 2.26,
+              "y": 0.6,
+              "z": 0.0,
+              "trainIndex": 16
+            }
+          ]
+        },
+        {
+          "step": 17,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 2.64,
+              "y": 0.95,
+              "z": 0.0,
+              "trainIndex": 17
+            }
+          ]
+        },
+        {
+          "step": 18,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 2.655,
+              "y": 1.54,
+              "z": 0.0,
+              "trainIndex": 18
+            }
+          ]
+        },
+        {
+          "step": 19,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 2.7,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 19
+            }
+          ]
+        },
+        {
+          "step": 20,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 3.3,
+              "y": 0.95,
+              "z": 0.0,
+              "trainIndex": 20
+            }
+          ]
+        },
+        {
+          "step": 21,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "TD0028179",
+              "restrictionFlag": "0",
+              "x": 3.315,
+              "y": 1.54,
+              "z": 0.0,
+              "trainIndex": 21
+            }
+          ]
+        },
+        {
+          "step": 22,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 3.36,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 22
+            }
+          ]
+        },
+        {
+          "step": 23,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "AL00MF008",
+              "restrictionFlag": "1",
+              "x": 3.36,
+              "y": 0.59,
+              "z": 0.0,
+              "trainIndex": 23
+            }
+          ]
+        },
+        {
+          "step": 24,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 3.96,
+              "y": 0.95,
+              "z": 0.0,
+              "trainIndex": 24
+            }
+          ]
+        },
+        {
+          "step": 25,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "TD0028179",
+              "restrictionFlag": "0",
+              "x": 3.96,
+              "y": 1.54,
+              "z": 0.0,
+              "trainIndex": 25
+            }
+          ]
+        },
+        {
+          "step": 26,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 4.02,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 26
+            }
+          ]
+        },
+        {
+          "step": 27,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "TD0028179",
+              "restrictionFlag": "0",
+              "x": 4.62,
+              "y": 0.95,
+              "z": 0.0,
+              "trainIndex": 27
+            }
+          ]
+        },
+        {
+          "step": 28,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLA009",
+              "restrictionFlag": "0",
+              "x": 4.62,
+              "y": 1.55,
+              "z": 0.0,
+              "trainIndex": 28
+            }
+          ]
+        },
+        {
+          "step": 29,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "TD0028179",
+              "restrictionFlag": "0",
+              "x": 4.68,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 29
+            }
+          ]
+        },
+        {
+          "step": 30,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "TD0028186",
+              "restrictionFlag": "1",
+              "x": 4.68,
+              "y": 0.6,
+              "z": 0.0,
+              "trainIndex": 30
+            }
+          ]
+        },
+        {
+          "step": 31,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 5.06,
+              "y": 0.95,
+              "z": 0.0,
+              "trainIndex": 31
+            }
+          ]
+        },
+        {
+          "step": 32,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLA009",
+              "restrictionFlag": "0",
+              "x": 5.12,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 32
+            }
+          ]
+        },
+        {
+          "step": 33,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 5.295,
+              "y": 1.55,
+              "z": 0.0,
+              "trainIndex": 33
+            }
+          ]
+        },
+        {
+          "step": 34,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLA009",
+              "restrictionFlag": "0",
+              "x": 5.795,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 34
+            }
+          ]
+        },
+        {
+          "step": 35,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "TD0028179",
+              "restrictionFlag": "0",
+              "x": 5.795,
+              "y": 0.675,
+              "z": 0.0,
+              "trainIndex": 35
+            }
+          ]
+        },
+        {
+          "step": 36,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLA009",
+              "restrictionFlag": "0",
+              "x": 5.955,
+              "y": 1.55,
+              "z": 0.0,
+              "trainIndex": 36
+            }
+          ]
+        },
+        {
+          "step": 37,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 6.47,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 37
+            }
+          ]
+        },
+        {
+          "step": 38,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "AL00MF008",
+              "restrictionFlag": "0",
+              "x": 6.47,
+              "y": 0.59,
+              "z": 0.0,
+              "trainIndex": 38
+            }
+          ]
+        },
+        {
+          "step": 39,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 6.63,
+              "y": 1.55,
+              "z": 0.0,
+              "trainIndex": 39
+            }
+          ]
+        },
+        {
+          "step": 40,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "AL00MF008",
+              "restrictionFlag": "0",
+              "x": 6.75,
+              "y": 0.59,
+              "z": 0.0,
+              "trainIndex": 40
+            }
+          ]
+        },
+        {
+          "step": 41,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 7.13,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 41
+            }
+          ]
+        },
+        {
+          "step": 42,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 7.13,
+              "y": 0.59,
+              "z": 0.0,
+              "trainIndex": 42
+            }
+          ]
+        },
+        {
+          "step": 43,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "TD0028186",
+              "restrictionFlag": "1",
+              "x": 7.13,
+              "y": 1.18,
+              "z": 0.0,
+              "trainIndex": 43
+            }
+          ]
+        },
+        {
+          "step": 44,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLA009",
+              "restrictionFlag": "0",
+              "x": 7.29,
+              "y": 1.55,
+              "z": 0.0,
+              "trainIndex": 44
+            }
+          ]
+        },
+        {
+          "step": 45,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "TD0028179",
+              "restrictionFlag": "0",
+              "x": 7.79,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 45
+            }
+          ]
+        },
+        {
+          "step": 46,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 7.79,
+              "y": 0.6,
+              "z": 0.0,
+              "trainIndex": 46
+            }
+          ]
+        },
+        {
+          "step": 47,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "TD0028186",
+              "restrictionFlag": "1",
+              "x": 7.79,
+              "y": 1.19,
+              "z": 0.0,
+              "trainIndex": 47
+            }
+          ]
+        },
+        {
+          "step": 48,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLA009",
+              "restrictionFlag": "0",
+              "x": 7.965,
+              "y": 1.55,
+              "z": 0.0,
+              "trainIndex": 48
+            }
+          ]
+        },
+        {
+          "step": 49,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 8.23,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 49
+            }
+          ]
+        },
+        {
+          "step": 50,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "TD0028179",
+              "restrictionFlag": "0",
+              "x": 8.45,
+              "y": 0.6,
+              "z": 0.0,
+              "trainIndex": 50
+            }
+          ]
+        },
+        {
+          "step": 51,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "AL00MF008",
+              "restrictionFlag": "1",
+              "x": 8.45,
+              "y": 1.2,
+              "z": 0.0,
+              "trainIndex": 51
+            }
+          ]
+        },
+        {
+          "step": 52,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 8.64,
+              "y": 1.55,
+              "z": 0.0,
+              "trainIndex": 52
+            }
+          ]
+        },
+        {
+          "step": 53,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "TD0028179",
+              "restrictionFlag": "0",
+              "x": 8.89,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 53
+            }
+          ]
+        },
+        {
+          "step": 54,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "TD0028179",
+              "restrictionFlag": "0",
+              "x": 8.89,
+              "y": 0.6,
+              "z": 0.0,
+              "trainIndex": 54
+            }
+          ]
+        },
+        {
+          "step": 55,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLA009",
+              "restrictionFlag": "0",
+              "x": 9.3,
+              "y": 1.55,
+              "z": 0.0,
+              "trainIndex": 55
+            }
+          ]
+        },
+        {
+          "step": 56,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 9.33,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 56
+            }
+          ]
+        },
+        {
+          "step": 57,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 9.33,
+              "y": 0.59,
+              "z": 0.0,
+              "trainIndex": 57
+            }
+          ]
+        },
+        {
+          "step": 58,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "TD0028186",
+              "restrictionFlag": "1",
+              "x": 9.4,
+              "y": 1.2,
+              "z": 0.0,
+              "trainIndex": 58
+            }
+          ]
+        },
+        {
+          "step": 59,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "AL00MF008",
+              "restrictionFlag": "1",
+              "x": 9.4,
+              "y": 1.2,
+              "z": 0.395,
+              "trainIndex": 59
+            }
+          ]
+        },
+        {
+          "step": 60,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "TD0028179",
+              "restrictionFlag": "0",
+              "x": 9.975,
+              "y": 1.55,
+              "z": 0.0,
+              "trainIndex": 60
+            }
+          ]
+        },
+        {
+          "step": 61,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "TD0028179",
+              "restrictionFlag": "0",
+              "x": 9.99,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 61
+            }
+          ]
+        },
+        {
+          "step": 62,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 9.99,
+              "y": 0.6,
+              "z": 0.0,
+              "trainIndex": 62
+            }
+          ]
+        },
+        {
+          "step": 63,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "AL00MF008",
+              "restrictionFlag": "1",
+              "x": 9.99,
+              "y": 1.19,
+              "z": 0.0,
+              "trainIndex": 63
+            }
+          ]
+        },
+        {
+          "step": 64,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "AL00MF008",
+              "restrictionFlag": "1",
+              "x": 10.35,
+              "y": 1.2,
+              "z": 0.395,
+              "trainIndex": 64
+            }
+          ]
+        },
+        {
+          "step": 65,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLA009",
+              "restrictionFlag": "0",
+              "x": 10.415,
+              "y": 1.55,
+              "z": 0.0,
+              "trainIndex": 65
+            }
+          ]
+        },
+        {
+          "step": 66,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 10.43,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 66
+            }
+          ]
+        },
+        {
+          "step": 67,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 10.65,
+              "y": 0.6,
+              "z": 0.0,
+              "trainIndex": 67
+            }
+          ]
+        },
+        {
+          "step": 68,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "AL00MF008",
+              "restrictionFlag": "1",
+              "x": 10.94,
+              "y": 1.19,
+              "z": 0.0,
+              "trainIndex": 68
+            }
+          ]
+        },
+        {
+          "step": 69,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 11.09,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 69
+            }
+          ]
+        },
+        {
+          "step": 70,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 11.09,
+              "y": 1.55,
+              "z": 0.0,
+              "trainIndex": 70
+            }
+          ]
+        },
+        {
+          "step": 71,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "TD0028179",
+              "restrictionFlag": "1",
+              "x": 11.31,
+              "y": 0.6,
+              "z": 0.0,
+              "trainIndex": 71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "train": 2,
+      "modelCode": "B0009",
+      "good_Num": 45,
+      "totalCapacity": 21.748,
+      "totalWeight": 0.023108,
+      "packingRate": 0.3292706929703705,
+      "stepList": [
+        {
+          "step": 1,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLA009",
+              "restrictionFlag": "0",
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 1
+            }
+          ]
+        },
+        {
+          "step": 2,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 0.0,
+              "y": 0.675,
+              "z": 0.0,
+              "trainIndex": 2
+            }
+          ]
+        },
+        {
+          "step": 3,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLA009",
+              "restrictionFlag": "0",
+              "x": 0.0,
+              "y": 1.265,
+              "z": 0.0,
+              "trainIndex": 3
+            }
+          ]
+        },
+        {
+          "step": 4,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "AL00MF008",
+              "restrictionFlag": "1",
+              "x": 0.0,
+              "y": 1.94,
+              "z": 0.0,
+              "trainIndex": 4
+            }
+          ]
+        },
+        {
+          "step": 5,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 0.675,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 5
+            }
+          ]
+        },
+        {
+          "step": 6,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "AL00MF008",
+              "restrictionFlag": "0",
+              "x": 0.675,
+              "y": 0.59,
+              "z": 0.0,
+              "trainIndex": 6
+            }
+          ]
+        },
+        {
+          "step": 7,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "TD0028186",
+              "restrictionFlag": "1",
+              "x": 0.675,
+              "y": 1.54,
+              "z": 0.0,
+              "trainIndex": 7
+            }
+          ]
+        },
+        {
+          "step": 8,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 1.335,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 8
+            }
+          ]
+        },
+        {
+          "step": 9,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 1.335,
+              "y": 0.59,
+              "z": 0.0,
+              "trainIndex": 9
+            }
+          ]
+        },
+        {
+          "step": 10,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 1.335,
+              "y": 1.18,
+              "z": 0.0,
+              "trainIndex": 10
+            }
+          ]
+        },
+        {
+          "step": 11,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "TD0028179",
+              "restrictionFlag": "1",
+              "x": 1.335,
+              "y": 1.77,
+              "z": 0.0,
+              "trainIndex": 11
+            }
+          ]
+        },
+        {
+          "step": 12,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 1.995,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 12
+            }
+          ]
+        },
+        {
+          "step": 13,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 1.995,
+              "y": 0.59,
+              "z": 0.0,
+              "trainIndex": 13
+            }
+          ]
+        },
+        {
+          "step": 14,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 1.995,
+              "y": 1.18,
+              "z": 0.0,
+              "trainIndex": 14
+            }
+          ]
+        },
+        {
+          "step": 15,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "AL00MF008",
+              "restrictionFlag": "1",
+              "x": 1.995,
+              "y": 1.77,
+              "z": 0.0,
+              "trainIndex": 15
+            }
+          ]
+        },
+        {
+          "step": 16,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "AL00MF008",
+              "restrictionFlag": "1",
+              "x": 1.995,
+              "y": 2.05,
+              "z": 0.0,
+              "trainIndex": 16
+            }
+          ]
+        },
+        {
+          "step": 17,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 2.655,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 17
+            }
+          ]
+        },
+        {
+          "step": 18,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 2.655,
+              "y": 0.59,
+              "z": 0.0,
+              "trainIndex": 18
+            }
+          ]
+        },
+        {
+          "step": 19,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 2.655,
+              "y": 1.18,
+              "z": 0.0,
+              "trainIndex": 19
+            }
+          ]
+        },
+        {
+          "step": 20,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 3.315,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 20
+            }
+          ]
+        },
+        {
+          "step": 21,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLA009",
+              "restrictionFlag": "0",
+              "x": 3.315,
+              "y": 0.59,
+              "z": 0.0,
+              "trainIndex": 21
+            }
+          ]
+        },
+        {
+          "step": 22,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 3.315,
+              "y": 1.265,
+              "z": 0.0,
+              "trainIndex": 22
+            }
+          ]
+        },
+        {
+          "step": 23,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "AL00MF008",
+              "restrictionFlag": "1",
+              "x": 3.315,
+              "y": 1.855,
+              "z": 0.0,
+              "trainIndex": 23
+            }
+          ]
+        },
+        {
+          "step": 24,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 3.975,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 24
+            }
+          ]
+        },
+        {
+          "step": 25,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 3.99,
+              "y": 0.59,
+              "z": 0.0,
+              "trainIndex": 25
+            }
+          ]
+        },
+        {
+          "step": 26,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLA009",
+              "restrictionFlag": "0",
+              "x": 3.99,
+              "y": 1.18,
+              "z": 0.0,
+              "trainIndex": 26
+            }
+          ]
+        },
+        {
+          "step": 27,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 4.635,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 27
+            }
+          ]
+        },
+        {
+          "step": 28,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLR009",
+              "restrictionFlag": "0",
+              "x": 4.65,
+              "y": 0.59,
+              "z": 0.0,
+              "trainIndex": 28
+            }
+          ]
+        },
+        {
+          "step": 29,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLA009",
+              "restrictionFlag": "0",
+              "x": 4.665,
+              "y": 1.18,
+              "z": 0.0,
+              "trainIndex": 29
+            }
+          ]
+        },
+        {
+          "step": 30,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "TD0028179",
+              "restrictionFlag": "1",
+              "x": 4.665,
+              "y": 1.855,
+              "z": 0.0,
+              "trainIndex": 30
+            }
+          ]
+        },
+        {
+          "step": 31,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "TD0028179",
+              "restrictionFlag": "1",
+              "x": 5.295,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 31
+            }
+          ]
+        },
+        {
+          "step": 32,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "CG0LLA009",
+              "restrictionFlag": "0",
+              "x": 5.34,
+              "y": 1.18,
+              "z": 0.0,
+              "trainIndex": 32
+            }
+          ]
+        },
+        {
+          "step": 33,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 0,
+          "goodList": [
+            {
+              "materialCode": "TD0028179",
+              "restrictionFlag": "1",
+              "x": 5.34,
+              "y": 1.855,
+              "z": 0.0,
+              "trainIndex": 33
+            }
+          ]
+        },
+        {
+          "step": 34,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 1,
+          "goodList": [
+            {
+              "materialCode": "BL06W1E8Z",
+              "restrictionFlag": "0",
+              "x": 5.895,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 34
+            }
+          ]
+        },
+        {
+          "step": 35,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 1,
+          "goodList": [
+            {
+              "materialCode": "BL06W1E8Z",
+              "restrictionFlag": "0",
+              "x": 6.015,
+              "y": 1.18,
+              "z": 0.0,
+              "trainIndex": 35
+            }
+          ]
+        },
+        {
+          "step": 36,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 1,
+          "goodList": [
+            {
+              "materialCode": "BL06W1E8Z",
+              "restrictionFlag": "0",
+              "x": 6.578,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 36
+            }
+          ]
+        },
+        {
+          "step": 37,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 1,
+          "goodList": [
+            {
+              "materialCode": "BL06W1E8Z",
+              "restrictionFlag": "0",
+              "x": 6.698,
+              "y": 1.18,
+              "z": 0.0,
+              "trainIndex": 37
+            }
+          ]
+        },
+        {
+          "step": 38,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 1,
+          "goodList": [
+            {
+              "materialCode": "BL06W1E8Z",
+              "restrictionFlag": "0",
+              "x": 7.261,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 38
+            }
+          ]
+        },
+        {
+          "step": 39,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 1,
+          "goodList": [
+            {
+              "materialCode": "BL06W1E8Z",
+              "restrictionFlag": "0",
+              "x": 7.381,
+              "y": 1.18,
+              "z": 0.0,
+              "trainIndex": 39
+            }
+          ]
+        },
+        {
+          "step": 40,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 1,
+          "goodList": [
+            {
+              "materialCode": "BL06W1E8Z",
+              "restrictionFlag": "0",
+              "x": 7.944,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 40
+            }
+          ]
+        },
+        {
+          "step": 41,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 1,
+          "goodList": [
+            {
+              "materialCode": "BL06W1E8Z",
+              "restrictionFlag": "0",
+              "x": 8.064,
+              "y": 1.18,
+              "z": 0.0,
+              "trainIndex": 41
+            }
+          ]
+        },
+        {
+          "step": 42,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 1,
+          "goodList": [
+            {
+              "materialCode": "BL06W1E8Z",
+              "restrictionFlag": "0",
+              "x": 8.627,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 42
+            }
+          ]
+        },
+        {
+          "step": 43,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 1,
+          "goodList": [
+            {
+              "materialCode": "BL06W1E8Z",
+              "restrictionFlag": "0",
+              "x": 8.747,
+              "y": 1.18,
+              "z": 0.0,
+              "trainIndex": 43
+            }
+          ]
+        },
+        {
+          "step": 44,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 1,
+          "goodList": [
+            {
+              "materialCode": "BL06W1E8Z",
+              "restrictionFlag": "0",
+              "x": 9.31,
+              "y": 0.0,
+              "z": 0.0,
+              "trainIndex": 44
+            }
+          ]
+        },
+        {
+          "step": 45,
+          "qty": 1,
+          "directionNum": "1*1*1",
+          "orderCode": 1,
+          "goodList": [
+            {
+              "materialCode": "BL06W1E8Z",
+              "restrictionFlag": "0",
+              "x": 9.43,
+              "y": 1.18,
+              "z": 0.0,
+              "trainIndex": 45
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
